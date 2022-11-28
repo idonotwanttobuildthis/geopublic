@@ -5,7 +5,7 @@
       "type": "Feature",
       "properties": {
         "name": "Leeds"
-        "heat": 55,
+        "heat": "55",
       },
       "geometry": {
         "coordinates": [
@@ -51,7 +51,7 @@
       "type": "Feature",
       "properties": {
         "name": "Bradford"
-        "heat": 78,
+        "heat": "78",
       },
       "geometry": {
         "coordinates": [
@@ -97,7 +97,7 @@
       "type": "Feature",
       "properties": {
         "name": "Huddersfield"
-        "heat": 12,
+        "heat": "12",
       },
       "geometry": {
         "coordinates": [
