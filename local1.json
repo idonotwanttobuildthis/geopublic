@@ -3,7 +3,9 @@
   "features": [
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "name": "Leeds"
+      },
       "geometry": {
         "coordinates": [
           [
@@ -46,7 +48,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "name": "Bradford"
+      },
       "geometry": {
         "coordinates": [
           [
@@ -89,7 +93,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "name": "Huddersfield"
+      },
       "geometry": {
         "coordinates": [
           [
